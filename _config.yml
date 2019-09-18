@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.kovalyshyn.pp.ua" # the base hostname & protocol for your site
 
 show_downloads: false
-google_analytics:
+google_analytics: 'UA-7767214-27'
 
 # Handling Reading
 exclude: ["README.md", "README.html"]
