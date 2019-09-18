@@ -7,6 +7,9 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.kovalyshyn.pp.ua" # the base hostname & protocol for your site
 
+show_downloads: false
+google_analytics:
+
 # Handling Reading
 exclude: ["README.md", "README.html"]
 
