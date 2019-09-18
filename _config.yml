@@ -16,11 +16,8 @@ exclude: ["README.md", "README.html"]
 twitter_username: kovalyshyn
 github_username:  kovalyshyn
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
 # Build settings
 theme: jekyll-theme-slate
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
 
