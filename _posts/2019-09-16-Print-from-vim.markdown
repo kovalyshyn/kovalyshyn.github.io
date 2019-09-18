@@ -24,7 +24,7 @@ categories: [linux, bsd]
 
 Чудово! А тепер ще додам у свій конфіг, щоб відразу робити експорт та відкривати файл у `zathura` одним натисканням кнопки `F6`:
 
-    map <F6> <Esc>:w! <Esc><CR><Esc>:hardcopy >/tmp/p.ps<CR><Esc>:!zathura /tmp/p.ps&<CR><Esc>
+    map <F6> <Esc>:w!<CR><Esc>:hardcopy >/tmp/p.ps<CR><Esc>:!zathura /tmp/p.ps&<CR><Esc>
 
 Готово!
 
