@@ -4,7 +4,8 @@ title: My Wishlist
 permalink: /wishlist/
 ---
 
-- [x] [Holga 120N][holga]
+- [x] [Paterson Micro Focus Finder][PTP643]
+- [x] [HOLGA Classic 120 Film Camera][holga120n]
 - [ ] [HOLGA Wide Panoramic Pinhole Camera 120 WPC LOMO][holgawpc]
 - [ ] [The Art of Photography: A Personal Approach to Artistic Expression Paperback][book1]
 - [ ] Плівка [Ilford Delta 3200/120][id3200120]
@@ -13,7 +14,8 @@ permalink: /wishlist/
 - [ ] Плівка [Lomography Metropolis & Purple 135][lomomp135]
 - [ ] Плівка CINESTILL 800 Tungsten [135][cinestill800135] / [120][cinestill800120]
 
-[holga]: https://www.aliexpress.com/item/1005003106907994.html
+[PTP643]: https://www.bhphotovideo.com/c/product/40219-REG/Paterson_PTP643_Micro_Focus_Finder.html
+[holga120n]: https://www.aliexpress.com/item/1005003106907994.html
 [holgawpc]: https://www.aliexpress.com/item/32989850856.html
 [book1]: https://www.amazon.com/gp/product/1681982102
 [id3200120]: https://www.fotovramke.com/item-712/ilford-delta-3200-120.html
