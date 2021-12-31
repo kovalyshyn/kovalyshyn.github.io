@@ -7,6 +7,7 @@ permalink: /wishlist/
 - [x] [Paterson Micro Focus Finder][PTP643]
 - [x] [HOLGA Classic 120 Film Camera][holga120n]
 - [ ] [HOLGA Wide Panoramic Pinhole Camera 120 WPC LOMO][holgawpc]
+- [ ] [Sony PS-LX310BT Stereo Turntable with Bluetooth & USB][pslx310bt]
 - [ ] [The Art of Photography: A Personal Approach to Artistic Expression Paperback][book1]
 - [ ] Плівка [Ilford Delta 3200/120][id3200120]
 - [ ] Плівка [Ilford HP5 Plus 400/120][hp5120]
@@ -18,6 +19,7 @@ permalink: /wishlist/
 [holga120n]: https://www.aliexpress.com/item/1005003106907994.html
 [holgawpc]: https://www.aliexpress.com/item/32989850856.html
 [book1]: https://www.amazon.com/gp/product/1681982102
+[pslx310bt]: https://www.bhphotovideo.com/c/product/1472758-REG/sony_pslx310bt_ps_lx310bt_turntable_with_usb.html
 [id3200120]: https://www.fotovramke.com/item-712/ilford-delta-3200-120.html
 [hp5120]: https://www.fotovramke.com/item-672/ilford-hp5-plus-400-120.html
 [lomomp135]: https://www.fotovramke.com/item-897/pl%D1%96vka-lomography-metropolis--lomography-purple.html
